@@ -1,0 +1,15 @@
+E:\Projects\ThisChain\ThisChain\bin\Debug\net6.0\ThisChain.exe
+E:\Projects\ThisChain\ThisChain\bin\Debug\net6.0\ThisChain.deps.json
+E:\Projects\ThisChain\ThisChain\bin\Debug\net6.0\ThisChain.runtimeconfig.json
+E:\Projects\ThisChain\ThisChain\bin\Debug\net6.0\ThisChain.dll
+E:\Projects\ThisChain\ThisChain\bin\Debug\net6.0\ThisChain.pdb
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.csproj.AssemblyReference.cache
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.AssemblyInfoInputs.cache
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.AssemblyInfo.cs
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.csproj.CoreCompileInputs.cache
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.dll
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\refint\ThisChain.dll
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.pdb
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ThisChain.genruntimeconfig.cache
+E:\Projects\ThisChain\ThisChain\obj\Debug\net6.0\ref\ThisChain.dll
