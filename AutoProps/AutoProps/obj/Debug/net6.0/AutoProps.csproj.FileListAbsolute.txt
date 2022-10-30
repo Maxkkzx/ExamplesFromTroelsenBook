@@ -1,0 +1,15 @@
+E:\Projects\AutoProps\AutoProps\bin\Debug\net6.0\AutoProps.exe
+E:\Projects\AutoProps\AutoProps\bin\Debug\net6.0\AutoProps.deps.json
+E:\Projects\AutoProps\AutoProps\bin\Debug\net6.0\AutoProps.runtimeconfig.json
+E:\Projects\AutoProps\AutoProps\bin\Debug\net6.0\AutoProps.dll
+E:\Projects\AutoProps\AutoProps\bin\Debug\net6.0\AutoProps.pdb
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.csproj.AssemblyReference.cache
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.AssemblyInfoInputs.cache
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.AssemblyInfo.cs
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.csproj.CoreCompileInputs.cache
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.dll
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\refint\AutoProps.dll
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.pdb
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\AutoProps.genruntimeconfig.cache
+E:\Projects\AutoProps\AutoProps\obj\Debug\net6.0\ref\AutoProps.dll
