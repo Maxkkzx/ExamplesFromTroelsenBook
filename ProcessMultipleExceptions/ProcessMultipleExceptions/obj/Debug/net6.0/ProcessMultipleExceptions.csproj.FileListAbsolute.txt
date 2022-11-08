@@ -1,0 +1,15 @@
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\net6.0\ProcessMultipleExceptions.exe
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\net6.0\ProcessMultipleExceptions.deps.json
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\net6.0\ProcessMultipleExceptions.runtimeconfig.json
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\net6.0\ProcessMultipleExceptions.dll
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\net6.0\ProcessMultipleExceptions.pdb
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.csproj.AssemblyReference.cache
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.AssemblyInfoInputs.cache
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.AssemblyInfo.cs
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.csproj.CoreCompileInputs.cache
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.dll
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\refint\ProcessMultipleExceptions.dll
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.pdb
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ProcessMultipleExceptions.genruntimeconfig.cache
+E:\Projects\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\net6.0\ref\ProcessMultipleExceptions.dll
