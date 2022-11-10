@@ -1,0 +1,15 @@
+E:\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\net6.0\InterfaceNameClash.exe
+E:\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\net6.0\InterfaceNameClash.deps.json
+E:\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\net6.0\InterfaceNameClash.runtimeconfig.json
+E:\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\net6.0\InterfaceNameClash.dll
+E:\Projects\InterfaceNameClash\InterfaceNameClash\bin\Debug\net6.0\InterfaceNameClash.pdb
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.csproj.AssemblyReference.cache
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.AssemblyInfoInputs.cache
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.AssemblyInfo.cs
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.csproj.CoreCompileInputs.cache
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.dll
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\refint\InterfaceNameClash.dll
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.pdb
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\InterfaceNameClash.genruntimeconfig.cache
+E:\Projects\InterfaceNameClash\InterfaceNameClash\obj\Debug\net6.0\ref\InterfaceNameClash.dll
