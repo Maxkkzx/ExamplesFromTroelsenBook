@@ -1,0 +1,15 @@
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\net6.0\InterfaceHierarchy.exe
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\net6.0\InterfaceHierarchy.deps.json
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\net6.0\InterfaceHierarchy.runtimeconfig.json
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\net6.0\InterfaceHierarchy.dll
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\net6.0\InterfaceHierarchy.pdb
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.csproj.AssemblyReference.cache
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.AssemblyInfoInputs.cache
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.AssemblyInfo.cs
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.dll
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\refint\InterfaceHierarchy.dll
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.pdb
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\InterfaceHierarchy.genruntimeconfig.cache
+E:\Projects\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\net6.0\ref\InterfaceHierarchy.dll
