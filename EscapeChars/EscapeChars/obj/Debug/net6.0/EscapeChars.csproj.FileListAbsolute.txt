@@ -1,0 +1,15 @@
+E:\Projects\EscapeChars\EscapeChars\bin\Debug\net6.0\EscapeChars.exe
+E:\Projects\EscapeChars\EscapeChars\bin\Debug\net6.0\EscapeChars.deps.json
+E:\Projects\EscapeChars\EscapeChars\bin\Debug\net6.0\EscapeChars.runtimeconfig.json
+E:\Projects\EscapeChars\EscapeChars\bin\Debug\net6.0\EscapeChars.dll
+E:\Projects\EscapeChars\EscapeChars\bin\Debug\net6.0\EscapeChars.pdb
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.csproj.AssemblyReference.cache
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.AssemblyInfoInputs.cache
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.AssemblyInfo.cs
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.csproj.CoreCompileInputs.cache
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.dll
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\refint\EscapeChars.dll
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.pdb
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\EscapeChars.genruntimeconfig.cache
+E:\Projects\EscapeChars\EscapeChars\obj\Debug\net6.0\ref\EscapeChars.dll
