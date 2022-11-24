@@ -1,0 +1,15 @@
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.exe
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.deps.json
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.runtimeconfig.json
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.dll
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\bin\Debug\net6.0\CustomEnumerator.pdb
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.csproj.AssemblyReference.cache
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.AssemblyInfoInputs.cache
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.AssemblyInfo.cs
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.dll
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\refint\CustomEnumerator.dll
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.pdb
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\CustomEnumerator.genruntimeconfig.cache
+E:\Projects\C#\CustomEnumerator\CustomEnumerator\obj\Debug\net6.0\ref\CustomEnumerator.dll
