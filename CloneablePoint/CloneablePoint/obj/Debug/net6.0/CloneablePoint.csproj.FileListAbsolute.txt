@@ -1,0 +1,15 @@
+E:\Projects\C#\CloneablePoint\CloneablePoint\bin\Debug\net6.0\CloneablePoint.exe
+E:\Projects\C#\CloneablePoint\CloneablePoint\bin\Debug\net6.0\CloneablePoint.deps.json
+E:\Projects\C#\CloneablePoint\CloneablePoint\bin\Debug\net6.0\CloneablePoint.runtimeconfig.json
+E:\Projects\C#\CloneablePoint\CloneablePoint\bin\Debug\net6.0\CloneablePoint.dll
+E:\Projects\C#\CloneablePoint\CloneablePoint\bin\Debug\net6.0\CloneablePoint.pdb
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.csproj.AssemblyReference.cache
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.AssemblyInfoInputs.cache
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.AssemblyInfo.cs
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.dll
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\refint\CloneablePoint.dll
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.pdb
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\CloneablePoint.genruntimeconfig.cache
+E:\Projects\C#\CloneablePoint\CloneablePoint\obj\Debug\net6.0\ref\CloneablePoint.dll
