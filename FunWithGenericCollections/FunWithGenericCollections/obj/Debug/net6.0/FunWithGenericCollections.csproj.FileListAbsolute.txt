@@ -1,0 +1,15 @@
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.csproj.AssemblyReference.cache
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.AssemblyInfoInputs.cache
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.AssemblyInfo.cs
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\net6.0\FunWithGenericCollections.exe
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\net6.0\FunWithGenericCollections.deps.json
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\net6.0\FunWithGenericCollections.runtimeconfig.json
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\net6.0\FunWithGenericCollections.dll
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\net6.0\FunWithGenericCollections.pdb
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.dll
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\refint\FunWithGenericCollections.dll
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.pdb
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\FunWithGenericCollections.genruntimeconfig.cache
+E:\Projects\C#\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\net6.0\ref\FunWithGenericCollections.dll
