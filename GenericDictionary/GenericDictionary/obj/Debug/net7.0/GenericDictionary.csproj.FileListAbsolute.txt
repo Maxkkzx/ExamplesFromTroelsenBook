@@ -1,0 +1,15 @@
+E:\Projects\C#\GenericDictionary\GenericDictionary\bin\Debug\net7.0\GenericDictionary.exe
+E:\Projects\C#\GenericDictionary\GenericDictionary\bin\Debug\net7.0\GenericDictionary.deps.json
+E:\Projects\C#\GenericDictionary\GenericDictionary\bin\Debug\net7.0\GenericDictionary.runtimeconfig.json
+E:\Projects\C#\GenericDictionary\GenericDictionary\bin\Debug\net7.0\GenericDictionary.dll
+E:\Projects\C#\GenericDictionary\GenericDictionary\bin\Debug\net7.0\GenericDictionary.pdb
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.csproj.AssemblyReference.cache
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.AssemblyInfoInputs.cache
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.AssemblyInfo.cs
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.csproj.CoreCompileInputs.cache
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.dll
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\refint\GenericDictionary.dll
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.pdb
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\GenericDictionary.genruntimeconfig.cache
+E:\Projects\C#\GenericDictionary\GenericDictionary\obj\Debug\net7.0\ref\GenericDictionary.dll
