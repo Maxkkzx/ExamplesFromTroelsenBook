@@ -1,0 +1,15 @@
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\bin\Debug\net7.0\GenericSortedSet.exe
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\bin\Debug\net7.0\GenericSortedSet.deps.json
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\bin\Debug\net7.0\GenericSortedSet.runtimeconfig.json
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\bin\Debug\net7.0\GenericSortedSet.dll
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\bin\Debug\net7.0\GenericSortedSet.pdb
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.csproj.AssemblyReference.cache
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.AssemblyInfoInputs.cache
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.AssemblyInfo.cs
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.csproj.CoreCompileInputs.cache
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.dll
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\refint\GenericSortedSet.dll
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.pdb
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\GenericSortedSet.genruntimeconfig.cache
+E:\Projects\C#\GenericSortedSet\GenericSortedSet\obj\Debug\net7.0\ref\GenericSortedSet.dll
