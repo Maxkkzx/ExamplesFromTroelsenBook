@@ -1,0 +1,15 @@
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\bin\Debug\net7.0\CustomGenericMethods.exe
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\bin\Debug\net7.0\CustomGenericMethods.deps.json
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\bin\Debug\net7.0\CustomGenericMethods.runtimeconfig.json
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\bin\Debug\net7.0\CustomGenericMethods.dll
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\bin\Debug\net7.0\CustomGenericMethods.pdb
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.csproj.AssemblyReference.cache
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.AssemblyInfoInputs.cache
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.AssemblyInfo.cs
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.dll
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\refint\CustomGenericMethods.dll
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.pdb
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\CustomGenericMethods.genruntimeconfig.cache
+E:\Projects\C#\CustomGenericMethods\CustomGenericMethods\obj\Debug\net7.0\ref\CustomGenericMethods.dll
