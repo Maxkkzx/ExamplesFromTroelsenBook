@@ -1,0 +1,15 @@
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\net7.0\FunWithObservableCollections.exe
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\net7.0\FunWithObservableCollections.deps.json
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\net7.0\FunWithObservableCollections.runtimeconfig.json
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\net7.0\FunWithObservableCollections.dll
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\bin\Debug\net7.0\FunWithObservableCollections.pdb
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.csproj.AssemblyReference.cache
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.AssemblyInfoInputs.cache
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.AssemblyInfo.cs
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.csproj.CoreCompileInputs.cache
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.dll
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\refint\FunWithObservableCollections.dll
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.pdb
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\FunWithObservableCollections.genruntimeconfig.cache
+E:\Projects\C#\FunWithObservableCollections\FunWithObservableCollections\obj\Debug\net7.0\ref\FunWithObservableCollections.dll
