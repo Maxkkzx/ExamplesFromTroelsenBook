@@ -1,0 +1,15 @@
+E:\Projects\C#\GenericPoint\GenericPoint\bin\Debug\net7.0\GenericPoint.exe
+E:\Projects\C#\GenericPoint\GenericPoint\bin\Debug\net7.0\GenericPoint.deps.json
+E:\Projects\C#\GenericPoint\GenericPoint\bin\Debug\net7.0\GenericPoint.runtimeconfig.json
+E:\Projects\C#\GenericPoint\GenericPoint\bin\Debug\net7.0\GenericPoint.dll
+E:\Projects\C#\GenericPoint\GenericPoint\bin\Debug\net7.0\GenericPoint.pdb
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.csproj.AssemblyReference.cache
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.AssemblyInfoInputs.cache
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.AssemblyInfo.cs
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.csproj.CoreCompileInputs.cache
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.dll
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\refint\GenericPoint.dll
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.pdb
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\GenericPoint.genruntimeconfig.cache
+E:\Projects\C#\GenericPoint\GenericPoint\obj\Debug\net7.0\ref\GenericPoint.dll
