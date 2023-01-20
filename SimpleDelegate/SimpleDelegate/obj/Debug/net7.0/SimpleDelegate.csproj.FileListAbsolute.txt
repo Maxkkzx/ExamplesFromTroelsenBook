@@ -1,0 +1,15 @@
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\bin\Debug\net7.0\SimpleDelegate.exe
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\bin\Debug\net7.0\SimpleDelegate.deps.json
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\bin\Debug\net7.0\SimpleDelegate.runtimeconfig.json
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\bin\Debug\net7.0\SimpleDelegate.dll
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\bin\Debug\net7.0\SimpleDelegate.pdb
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.csproj.AssemblyReference.cache
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.AssemblyInfo.cs
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.dll
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\refint\SimpleDelegate.dll
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.pdb
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\SimpleDelegate.genruntimeconfig.cache
+E:\Projects\C#\SimpleDelegate\SimpleDelegate\obj\Debug\net7.0\ref\SimpleDelegate.dll
