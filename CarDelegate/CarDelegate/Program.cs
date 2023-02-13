@@ -11,12 +11,20 @@ class Program
         Car cl = new Car("SlugBug", 100, 10);
 
         cl.RegisterWithCarEngine(new Car.CarEngineHandler(OnCarEngineEvent));
-        cl.RegisterWithCarEngine(new Car.CarEngineHandler(OnCarEngineEvent2));
+
+        Car.CarEngineHandler handler2 = new Car.CarEngineHandler(OnCarEngineEvent2);
+        cl.RegisterWithCarEngine(handler2);
 
         Console.WriteLine("Speeding up");
 
         for (int i = 0; i < 6; i++)
             cl.Acellerate(20);
+
+        cl.UnRegisterWithCarEngine(handler2);
+
+        for (int i = 0; i < 6; i++)
+            cl.Acellerate(20);
+
 
         static void OnCarEngineEvent(string msg)
         {
@@ -29,7 +37,6 @@ class Program
         {
             Console.WriteLine($"=> {msg.ToUpper()}");
         }
-
     }
 }
 
@@ -57,6 +64,11 @@ public class Car
     public void RegisterWithCarEngine(CarEngineHandler methodToCall)
     {
         listOfHandlers += methodToCall;
+    }
+
+    public void UnRegisterWithCarEngine(CarEngineHandler methodToCall)
+    {
+        listOfHandlers -= methodToCall;
     }
 
     public void Acellerate(int delta)
