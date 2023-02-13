@@ -1,0 +1,15 @@
+E:\Projects\C#\CarDelegate\CarDelegate\bin\Debug\net7.0\CarDelegate.exe
+E:\Projects\C#\CarDelegate\CarDelegate\bin\Debug\net7.0\CarDelegate.deps.json
+E:\Projects\C#\CarDelegate\CarDelegate\bin\Debug\net7.0\CarDelegate.runtimeconfig.json
+E:\Projects\C#\CarDelegate\CarDelegate\bin\Debug\net7.0\CarDelegate.dll
+E:\Projects\C#\CarDelegate\CarDelegate\bin\Debug\net7.0\CarDelegate.pdb
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.csproj.AssemblyReference.cache
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.AssemblyInfoInputs.cache
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.AssemblyInfo.cs
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.dll
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\refint\CarDelegate.dll
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.pdb
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\CarDelegate.genruntimeconfig.cache
+E:\Projects\C#\CarDelegate\CarDelegate\obj\Debug\net7.0\ref\CarDelegate.dll
