@@ -1,0 +1,8 @@
+E:\Projects\C#\StockOnliner\StockOnliner\bin\Debug\StockOnliner.exe.config
+E:\Projects\C#\StockOnliner\StockOnliner\bin\Debug\StockOnliner.exe
+E:\Projects\C#\StockOnliner\StockOnliner\bin\Debug\StockOnliner.pdb
+E:\Projects\C#\StockOnliner\StockOnliner\obj\Debug\StockOnliner.csproj.AssemblyReference.cache
+E:\Projects\C#\StockOnliner\StockOnliner\obj\Debug\StockOnliner.csproj.SuggestedBindingRedirects.cache
+E:\Projects\C#\StockOnliner\StockOnliner\obj\Debug\StockOnliner.csproj.CoreCompileInputs.cache
+E:\Projects\C#\StockOnliner\StockOnliner\obj\Debug\StockOnliner.exe
+E:\Projects\C#\StockOnliner\StockOnliner\obj\Debug\StockOnliner.pdb
