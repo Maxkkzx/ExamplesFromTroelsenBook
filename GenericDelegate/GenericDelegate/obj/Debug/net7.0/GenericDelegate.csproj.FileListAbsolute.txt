@@ -1,0 +1,15 @@
+E:\Projects\C#\GenericDelegate\GenericDelegate\bin\Debug\net7.0\GenericDelegate.exe
+E:\Projects\C#\GenericDelegate\GenericDelegate\bin\Debug\net7.0\GenericDelegate.deps.json
+E:\Projects\C#\GenericDelegate\GenericDelegate\bin\Debug\net7.0\GenericDelegate.runtimeconfig.json
+E:\Projects\C#\GenericDelegate\GenericDelegate\bin\Debug\net7.0\GenericDelegate.dll
+E:\Projects\C#\GenericDelegate\GenericDelegate\bin\Debug\net7.0\GenericDelegate.pdb
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.csproj.AssemblyReference.cache
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.AssemblyInfoInputs.cache
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.AssemblyInfo.cs
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.csproj.CoreCompileInputs.cache
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.dll
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\refint\GenericDelegate.dll
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.pdb
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\GenericDelegate.genruntimeconfig.cache
+E:\Projects\C#\GenericDelegate\GenericDelegate\obj\Debug\net7.0\ref\GenericDelegate.dll
