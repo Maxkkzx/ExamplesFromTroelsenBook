@@ -1,0 +1,15 @@
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net7.0\ActionAndFuncDelegates.exe
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net7.0\ActionAndFuncDelegates.deps.json
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net7.0\ActionAndFuncDelegates.runtimeconfig.json
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net7.0\ActionAndFuncDelegates.dll
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net7.0\ActionAndFuncDelegates.pdb
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.csproj.AssemblyReference.cache
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.AssemblyInfo.cs
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.dll
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\refint\ActionAndFuncDelegates.dll
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.pdb
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ActionAndFuncDelegates.genruntimeconfig.cache
+E:\Projects\C#\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net7.0\ref\ActionAndFuncDelegates.dll
