@@ -1,0 +1,15 @@
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net7.0\PublicDelegateProblem.exe
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net7.0\PublicDelegateProblem.deps.json
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net7.0\PublicDelegateProblem.runtimeconfig.json
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net7.0\PublicDelegateProblem.dll
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\net7.0\PublicDelegateProblem.pdb
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.csproj.AssemblyReference.cache
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.AssemblyInfoInputs.cache
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.AssemblyInfo.cs
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.dll
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\refint\PublicDelegateProblem.dll
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.pdb
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\PublicDelegateProblem.genruntimeconfig.cache
+E:\Projects\C#\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\net7.0\ref\PublicDelegateProblem.dll
