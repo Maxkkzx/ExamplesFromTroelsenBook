@@ -1,0 +1,15 @@
+E:\Projects\C#\CarEventArgs\CarEventArgs\bin\Debug\net7.0\CarEventArgs.exe
+E:\Projects\C#\CarEventArgs\CarEventArgs\bin\Debug\net7.0\CarEventArgs.deps.json
+E:\Projects\C#\CarEventArgs\CarEventArgs\bin\Debug\net7.0\CarEventArgs.runtimeconfig.json
+E:\Projects\C#\CarEventArgs\CarEventArgs\bin\Debug\net7.0\CarEventArgs.dll
+E:\Projects\C#\CarEventArgs\CarEventArgs\bin\Debug\net7.0\CarEventArgs.pdb
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.csproj.AssemblyReference.cache
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.AssemblyInfoInputs.cache
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.AssemblyInfo.cs
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.dll
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\refint\CarEventArgs.dll
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.pdb
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\CarEventArgs.genruntimeconfig.cache
+E:\Projects\C#\CarEventArgs\CarEventArgs\obj\Debug\net7.0\ref\CarEventArgs.dll
