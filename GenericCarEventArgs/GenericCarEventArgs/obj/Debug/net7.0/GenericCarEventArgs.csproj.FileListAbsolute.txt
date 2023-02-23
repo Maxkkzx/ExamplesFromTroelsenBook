@@ -1,0 +1,15 @@
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\net7.0\GenericCarEventArgs.exe
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\net7.0\GenericCarEventArgs.deps.json
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\net7.0\GenericCarEventArgs.runtimeconfig.json
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\net7.0\GenericCarEventArgs.dll
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\net7.0\GenericCarEventArgs.pdb
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.csproj.AssemblyReference.cache
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.AssemblyInfoInputs.cache
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.AssemblyInfo.cs
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.csproj.CoreCompileInputs.cache
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.dll
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\refint\GenericCarEventArgs.dll
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.pdb
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\GenericCarEventArgs.genruntimeconfig.cache
+E:\Projects\C#\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\net7.0\ref\GenericCarEventArgs.dll
