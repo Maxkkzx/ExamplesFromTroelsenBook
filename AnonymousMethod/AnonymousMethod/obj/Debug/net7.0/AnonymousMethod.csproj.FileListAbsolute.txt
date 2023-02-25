@@ -1,0 +1,15 @@
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.exe
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.deps.json
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.runtimeconfig.json
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.dll
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\bin\Debug\net7.0\AnonymousMethod.pdb
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.csproj.AssemblyReference.cache
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.AssemblyInfoInputs.cache
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.AssemblyInfo.cs
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.dll
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\refint\AnonymousMethod.dll
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.pdb
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\AnonymousMethod.genruntimeconfig.cache
+E:\Projects\C#\AnonymousMethod\AnonymousMethod\obj\Debug\net7.0\ref\AnonymousMethod.dll
