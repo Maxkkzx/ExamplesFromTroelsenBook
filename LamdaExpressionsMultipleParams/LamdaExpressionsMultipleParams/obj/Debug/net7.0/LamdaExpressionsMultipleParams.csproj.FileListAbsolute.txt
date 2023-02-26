@@ -1,0 +1,15 @@
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\bin\Debug\net7.0\LamdaExpressionsMultipleParams.exe
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\bin\Debug\net7.0\LamdaExpressionsMultipleParams.deps.json
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\bin\Debug\net7.0\LamdaExpressionsMultipleParams.runtimeconfig.json
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\bin\Debug\net7.0\LamdaExpressionsMultipleParams.dll
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\bin\Debug\net7.0\LamdaExpressionsMultipleParams.pdb
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.csproj.AssemblyReference.cache
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.AssemblyInfoInputs.cache
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.AssemblyInfo.cs
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.dll
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\refint\LamdaExpressionsMultipleParams.dll
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.pdb
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\LamdaExpressionsMultipleParams.genruntimeconfig.cache
+E:\Projects\C#\LamdaExpressionsMultipleParams\LamdaExpressionsMultipleParams\obj\Debug\net7.0\ref\LamdaExpressionsMultipleParams.dll
