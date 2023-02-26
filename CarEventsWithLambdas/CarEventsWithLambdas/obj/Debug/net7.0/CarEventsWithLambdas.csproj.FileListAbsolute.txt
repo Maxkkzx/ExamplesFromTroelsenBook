@@ -1,0 +1,15 @@
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\net7.0\CarEventsWithLambdas.exe
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\net7.0\CarEventsWithLambdas.deps.json
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\net7.0\CarEventsWithLambdas.runtimeconfig.json
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\net7.0\CarEventsWithLambdas.dll
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\net7.0\CarEventsWithLambdas.pdb
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.csproj.AssemblyReference.cache
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.AssemblyInfoInputs.cache
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.AssemblyInfo.cs
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.dll
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\refint\CarEventsWithLambdas.dll
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.pdb
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\CarEventsWithLambdas.genruntimeconfig.cache
+E:\Projects\C#\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\net7.0\ref\CarEventsWithLambdas.dll
