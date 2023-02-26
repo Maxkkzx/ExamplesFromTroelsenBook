@@ -1,0 +1,15 @@
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\net7.0\SimpleLambdaExpressions.exe
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\net7.0\SimpleLambdaExpressions.deps.json
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\net7.0\SimpleLambdaExpressions.runtimeconfig.json
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\net7.0\SimpleLambdaExpressions.dll
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\net7.0\SimpleLambdaExpressions.pdb
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.csproj.AssemblyReference.cache
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.AssemblyInfo.cs
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.dll
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\refint\SimpleLambdaExpressions.dll
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.pdb
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\SimpleLambdaExpressions.genruntimeconfig.cache
+E:\Projects\C#\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\net7.0\ref\SimpleLambdaExpressions.dll
