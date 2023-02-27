@@ -1,0 +1,15 @@
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\bin\Debug\net7.0\SimpleIndexer.exe
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\bin\Debug\net7.0\SimpleIndexer.deps.json
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\bin\Debug\net7.0\SimpleIndexer.runtimeconfig.json
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\bin\Debug\net7.0\SimpleIndexer.dll
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\bin\Debug\net7.0\SimpleIndexer.pdb
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.csproj.AssemblyReference.cache
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.AssemblyInfo.cs
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.dll
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\refint\SimpleIndexer.dll
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.pdb
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\SimpleIndexer.genruntimeconfig.cache
+E:\Projects\C#\SimpleIndexer\SimpleIndexer\obj\Debug\net7.0\ref\SimpleIndexer.dll
