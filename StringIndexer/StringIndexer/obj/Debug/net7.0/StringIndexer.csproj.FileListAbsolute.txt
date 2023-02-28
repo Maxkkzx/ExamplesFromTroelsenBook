@@ -1,0 +1,15 @@
+E:\Projects\C#\StringIndexer\StringIndexer\bin\Debug\net7.0\StringIndexer.exe
+E:\Projects\C#\StringIndexer\StringIndexer\bin\Debug\net7.0\StringIndexer.deps.json
+E:\Projects\C#\StringIndexer\StringIndexer\bin\Debug\net7.0\StringIndexer.runtimeconfig.json
+E:\Projects\C#\StringIndexer\StringIndexer\bin\Debug\net7.0\StringIndexer.dll
+E:\Projects\C#\StringIndexer\StringIndexer\bin\Debug\net7.0\StringIndexer.pdb
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.csproj.AssemblyReference.cache
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.AssemblyInfoInputs.cache
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.AssemblyInfo.cs
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.csproj.CoreCompileInputs.cache
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.dll
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\refint\StringIndexer.dll
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.pdb
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\StringIndexer.genruntimeconfig.cache
+E:\Projects\C#\StringIndexer\StringIndexer\obj\Debug\net7.0\ref\StringIndexer.dll
