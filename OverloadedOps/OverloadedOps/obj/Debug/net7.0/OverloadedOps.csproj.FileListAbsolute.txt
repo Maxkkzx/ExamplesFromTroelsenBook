@@ -1,0 +1,15 @@
+E:\Projects\C#\OverloadedOps\OverloadedOps\bin\Debug\net7.0\OverloadedOps.exe
+E:\Projects\C#\OverloadedOps\OverloadedOps\bin\Debug\net7.0\OverloadedOps.deps.json
+E:\Projects\C#\OverloadedOps\OverloadedOps\bin\Debug\net7.0\OverloadedOps.runtimeconfig.json
+E:\Projects\C#\OverloadedOps\OverloadedOps\bin\Debug\net7.0\OverloadedOps.dll
+E:\Projects\C#\OverloadedOps\OverloadedOps\bin\Debug\net7.0\OverloadedOps.pdb
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.csproj.AssemblyReference.cache
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.AssemblyInfoInputs.cache
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.AssemblyInfo.cs
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.csproj.CoreCompileInputs.cache
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.dll
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\refint\OverloadedOps.dll
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.pdb
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\OverloadedOps.genruntimeconfig.cache
+E:\Projects\C#\OverloadedOps\OverloadedOps\obj\Debug\net7.0\ref\OverloadedOps.dll
