@@ -1,0 +1,15 @@
+E:\Projects\C#\CustomConversions\CustomConversions\bin\Debug\net7.0\CustomConversions.exe
+E:\Projects\C#\CustomConversions\CustomConversions\bin\Debug\net7.0\CustomConversions.deps.json
+E:\Projects\C#\CustomConversions\CustomConversions\bin\Debug\net7.0\CustomConversions.runtimeconfig.json
+E:\Projects\C#\CustomConversions\CustomConversions\bin\Debug\net7.0\CustomConversions.dll
+E:\Projects\C#\CustomConversions\CustomConversions\bin\Debug\net7.0\CustomConversions.pdb
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.csproj.AssemblyReference.cache
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.AssemblyInfoInputs.cache
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.AssemblyInfo.cs
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.dll
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\refint\CustomConversions.dll
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.pdb
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\CustomConversions.genruntimeconfig.cache
+E:\Projects\C#\CustomConversions\CustomConversions\obj\Debug\net7.0\ref\CustomConversions.dll
