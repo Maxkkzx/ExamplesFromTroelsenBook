@@ -1,0 +1,15 @@
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\bin\Debug\net7.0\InterfaceExtensions.exe
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\bin\Debug\net7.0\InterfaceExtensions.deps.json
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\bin\Debug\net7.0\InterfaceExtensions.runtimeconfig.json
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\bin\Debug\net7.0\InterfaceExtensions.dll
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\bin\Debug\net7.0\InterfaceExtensions.pdb
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.csproj.AssemblyReference.cache
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.AssemblyInfoInputs.cache
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.AssemblyInfo.cs
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.csproj.CoreCompileInputs.cache
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.dll
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\refint\InterfaceExtensions.dll
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.pdb
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\InterfaceExtensions.genruntimeconfig.cache
+E:\Projects\C#\InterfaceExtensions\InterfaceExtensions\obj\Debug\net7.0\ref\InterfaceExtensions.dll
