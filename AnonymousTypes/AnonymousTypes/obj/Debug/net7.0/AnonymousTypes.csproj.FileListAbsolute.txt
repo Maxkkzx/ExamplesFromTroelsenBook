@@ -1,0 +1,15 @@
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.csproj.AssemblyReference.cache
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.AssemblyInfoInputs.cache
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.AssemblyInfo.cs
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.exe
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.deps.json
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.runtimeconfig.json
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.dll
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.pdb
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.dll
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\refint\AnonymousTypes.dll
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.pdb
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.genruntimeconfig.cache
+E:\Projects\C#\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\ref\AnonymousTypes.dll
