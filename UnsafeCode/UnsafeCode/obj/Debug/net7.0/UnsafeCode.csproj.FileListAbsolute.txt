@@ -1,0 +1,15 @@
+E:\Projects\C#\UnsafeCode\UnsafeCode\bin\Debug\net7.0\UnsafeCode.exe
+E:\Projects\C#\UnsafeCode\UnsafeCode\bin\Debug\net7.0\UnsafeCode.deps.json
+E:\Projects\C#\UnsafeCode\UnsafeCode\bin\Debug\net7.0\UnsafeCode.runtimeconfig.json
+E:\Projects\C#\UnsafeCode\UnsafeCode\bin\Debug\net7.0\UnsafeCode.dll
+E:\Projects\C#\UnsafeCode\UnsafeCode\bin\Debug\net7.0\UnsafeCode.pdb
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.csproj.AssemblyReference.cache
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.AssemblyInfoInputs.cache
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.AssemblyInfo.cs
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.csproj.CoreCompileInputs.cache
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.dll
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\refint\UnsafeCode.dll
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.pdb
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\UnsafeCode.genruntimeconfig.cache
+E:\Projects\C#\UnsafeCode\UnsafeCode\obj\Debug\net7.0\ref\UnsafeCode.dll
