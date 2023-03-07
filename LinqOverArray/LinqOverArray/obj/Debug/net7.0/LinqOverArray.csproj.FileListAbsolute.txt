@@ -1,0 +1,15 @@
+E:\Projects\C#\LinqOverArray\LinqOverArray\bin\Debug\net7.0\LinqOverArray.exe
+E:\Projects\C#\LinqOverArray\LinqOverArray\bin\Debug\net7.0\LinqOverArray.deps.json
+E:\Projects\C#\LinqOverArray\LinqOverArray\bin\Debug\net7.0\LinqOverArray.runtimeconfig.json
+E:\Projects\C#\LinqOverArray\LinqOverArray\bin\Debug\net7.0\LinqOverArray.dll
+E:\Projects\C#\LinqOverArray\LinqOverArray\bin\Debug\net7.0\LinqOverArray.pdb
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.csproj.AssemblyReference.cache
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.AssemblyInfoInputs.cache
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.AssemblyInfo.cs
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.dll
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\refint\LinqOverArray.dll
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.pdb
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\LinqOverArray.genruntimeconfig.cache
+E:\Projects\C#\LinqOverArray\LinqOverArray\obj\Debug\net7.0\ref\LinqOverArray.dll
