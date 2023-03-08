@@ -1,0 +1,15 @@
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.csproj.AssemblyReference.cache
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.AssemblyInfoInputs.cache
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.AssemblyInfo.cs
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LinqRetValues\LinqRetValues\bin\Debug\net7.0\LinqRetValues.exe
+E:\Projects\C#\LinqRetValues\LinqRetValues\bin\Debug\net7.0\LinqRetValues.deps.json
+E:\Projects\C#\LinqRetValues\LinqRetValues\bin\Debug\net7.0\LinqRetValues.runtimeconfig.json
+E:\Projects\C#\LinqRetValues\LinqRetValues\bin\Debug\net7.0\LinqRetValues.dll
+E:\Projects\C#\LinqRetValues\LinqRetValues\bin\Debug\net7.0\LinqRetValues.pdb
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.dll
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\refint\LinqRetValues.dll
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.pdb
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\LinqRetValues.genruntimeconfig.cache
+E:\Projects\C#\LinqRetValues\LinqRetValues\obj\Debug\net7.0\ref\LinqRetValues.dll
