@@ -1,0 +1,15 @@
+E:\Projects\C#\ListOverCollections\ListOverCollections\bin\Debug\net7.0\ListOverCollections.exe
+E:\Projects\C#\ListOverCollections\ListOverCollections\bin\Debug\net7.0\ListOverCollections.deps.json
+E:\Projects\C#\ListOverCollections\ListOverCollections\bin\Debug\net7.0\ListOverCollections.runtimeconfig.json
+E:\Projects\C#\ListOverCollections\ListOverCollections\bin\Debug\net7.0\ListOverCollections.dll
+E:\Projects\C#\ListOverCollections\ListOverCollections\bin\Debug\net7.0\ListOverCollections.pdb
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.csproj.AssemblyReference.cache
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.AssemblyInfoInputs.cache
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.AssemblyInfo.cs
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.dll
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\refint\ListOverCollections.dll
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.pdb
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ListOverCollections.genruntimeconfig.cache
+E:\Projects\C#\ListOverCollections\ListOverCollections\obj\Debug\net7.0\ref\ListOverCollections.dll
