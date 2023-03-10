@@ -1,0 +1,15 @@
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\bin\Debug\net7.0\CheckingToPalindrome.exe
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\bin\Debug\net7.0\CheckingToPalindrome.deps.json
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\bin\Debug\net7.0\CheckingToPalindrome.runtimeconfig.json
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\bin\Debug\net7.0\CheckingToPalindrome.dll
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\bin\Debug\net7.0\CheckingToPalindrome.pdb
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.csproj.AssemblyReference.cache
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.AssemblyInfoInputs.cache
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.AssemblyInfo.cs
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.dll
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\refint\CheckingToPalindrome.dll
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.pdb
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\CheckingToPalindrome.genruntimeconfig.cache
+E:\Projects\C#\CheckingToPalindrome\CheckingToPalindrome\obj\Debug\net7.0\ref\CheckingToPalindrome.dll
