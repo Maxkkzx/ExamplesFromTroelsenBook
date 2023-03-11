@@ -1,0 +1,15 @@
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\net7.0\FunWithLinqExpressions.exe
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\net7.0\FunWithLinqExpressions.deps.json
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\net7.0\FunWithLinqExpressions.runtimeconfig.json
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\net7.0\FunWithLinqExpressions.dll
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\net7.0\FunWithLinqExpressions.pdb
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.csproj.AssemblyReference.cache
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.AssemblyInfoInputs.cache
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.AssemblyInfo.cs
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.dll
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\refint\FunWithLinqExpressions.dll
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.pdb
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\FunWithLinqExpressions.genruntimeconfig.cache
+E:\Projects\C#\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\net7.0\ref\FunWithLinqExpressions.dll
