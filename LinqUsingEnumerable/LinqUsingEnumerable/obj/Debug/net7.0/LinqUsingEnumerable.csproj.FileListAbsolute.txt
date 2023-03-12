@@ -1,0 +1,15 @@
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\net7.0\LinqUsingEnumerable.exe
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\net7.0\LinqUsingEnumerable.deps.json
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\net7.0\LinqUsingEnumerable.runtimeconfig.json
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\net7.0\LinqUsingEnumerable.dll
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\net7.0\LinqUsingEnumerable.pdb
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.csproj.AssemblyReference.cache
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.AssemblyInfoInputs.cache
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.AssemblyInfo.cs
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.dll
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\refint\LinqUsingEnumerable.dll
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.pdb
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\LinqUsingEnumerable.genruntimeconfig.cache
+E:\Projects\C#\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\net7.0\ref\LinqUsingEnumerable.dll
