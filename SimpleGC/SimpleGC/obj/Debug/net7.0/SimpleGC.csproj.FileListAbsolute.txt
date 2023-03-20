@@ -1,0 +1,15 @@
+E:\Projects\C#\SimpleGC\SimpleGC\bin\Debug\net7.0\SimpleGC.exe
+E:\Projects\C#\SimpleGC\SimpleGC\bin\Debug\net7.0\SimpleGC.deps.json
+E:\Projects\C#\SimpleGC\SimpleGC\bin\Debug\net7.0\SimpleGC.runtimeconfig.json
+E:\Projects\C#\SimpleGC\SimpleGC\bin\Debug\net7.0\SimpleGC.dll
+E:\Projects\C#\SimpleGC\SimpleGC\bin\Debug\net7.0\SimpleGC.pdb
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.csproj.AssemblyReference.cache
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.AssemblyInfo.cs
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.dll
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\refint\SimpleGC.dll
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.pdb
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\SimpleGC.genruntimeconfig.cache
+E:\Projects\C#\SimpleGC\SimpleGC\obj\Debug\net7.0\ref\SimpleGC.dll
