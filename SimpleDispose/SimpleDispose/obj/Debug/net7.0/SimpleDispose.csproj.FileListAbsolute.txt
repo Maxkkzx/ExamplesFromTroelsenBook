@@ -1,0 +1,15 @@
+E:\Projects\C#\SimpleDispose\SimpleDispose\bin\Debug\net7.0\SimpleDispose.exe
+E:\Projects\C#\SimpleDispose\SimpleDispose\bin\Debug\net7.0\SimpleDispose.deps.json
+E:\Projects\C#\SimpleDispose\SimpleDispose\bin\Debug\net7.0\SimpleDispose.runtimeconfig.json
+E:\Projects\C#\SimpleDispose\SimpleDispose\bin\Debug\net7.0\SimpleDispose.dll
+E:\Projects\C#\SimpleDispose\SimpleDispose\bin\Debug\net7.0\SimpleDispose.pdb
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.csproj.AssemblyReference.cache
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.AssemblyInfo.cs
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.dll
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\refint\SimpleDispose.dll
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.pdb
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\SimpleDispose.genruntimeconfig.cache
+E:\Projects\C#\SimpleDispose\SimpleDispose\obj\Debug\net7.0\ref\SimpleDispose.dll
