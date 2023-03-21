@@ -1,0 +1,15 @@
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.exe
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.deps.json
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.runtimeconfig.json
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.dll
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\bin\Debug\net7.0\SimpleFinalize.pdb
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.csproj.AssemblyReference.cache
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.AssemblyInfo.cs
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.dll
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\refint\SimpleFinalize.dll
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.pdb
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\SimpleFinalize.genruntimeconfig.cache
+E:\Projects\C#\SimpleFinalize\SimpleFinalize\obj\Debug\net7.0\ref\SimpleFinalize.dll
