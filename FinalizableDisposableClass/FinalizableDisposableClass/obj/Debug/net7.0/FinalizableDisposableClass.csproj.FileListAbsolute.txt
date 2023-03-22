@@ -1,0 +1,15 @@
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\net7.0\FinalizableDisposableClass.exe
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\net7.0\FinalizableDisposableClass.deps.json
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\net7.0\FinalizableDisposableClass.runtimeconfig.json
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\net7.0\FinalizableDisposableClass.dll
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\net7.0\FinalizableDisposableClass.pdb
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.csproj.AssemblyReference.cache
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.AssemblyInfoInputs.cache
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.AssemblyInfo.cs
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.csproj.CoreCompileInputs.cache
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.dll
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\refint\FinalizableDisposableClass.dll
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.pdb
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\FinalizableDisposableClass.genruntimeconfig.cache
+E:\Projects\C#\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\net7.0\ref\FinalizableDisposableClass.dll
