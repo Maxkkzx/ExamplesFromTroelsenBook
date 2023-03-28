@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zin+eV6TEcC2LTGo0GSA55ncd4vTcp6egrTm21GXzXOdSgzbKK7Pbem64PtnIFsOsmzo6z6YHh+lAHI2QKz3jg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\CarLibrary\\CarLibrary\\CarLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kozik\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
