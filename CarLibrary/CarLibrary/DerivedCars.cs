@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace CarLibrary
 {
-    internal class SportsCar : Car
+    public class SportsCar : Car
     {
         public SportsCar() { }
         public SportsCar(string name, int maxSp, int curSp)
@@ -19,7 +19,7 @@ namespace CarLibrary
         }
     }
 
-    internal class MiniVan : Car
+    public class MiniVan : Car
     {
         public MiniVan() { }
         public MiniVan(string name, int maxSp, int curSp)

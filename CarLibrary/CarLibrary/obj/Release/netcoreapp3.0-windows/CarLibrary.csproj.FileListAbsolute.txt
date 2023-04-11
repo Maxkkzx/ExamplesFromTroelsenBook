@@ -1,0 +1,5 @@
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\netcoreapp3.0-windows\CarLibrary.csproj.AssemblyReference.cache
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\netcoreapp3.0-windows\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\netcoreapp3.0-windows\CarLibrary.AssemblyInfoInputs.cache
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\netcoreapp3.0-windows\CarLibrary.AssemblyInfo.cs
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\netcoreapp3.0-windows\CarLibrary.csproj.CoreCompileInputs.cache

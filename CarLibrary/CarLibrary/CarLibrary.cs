@@ -1,9 +1,7 @@
-﻿using Xceed.Wpf.Toolkit;
-
-namespace CarLibrary
+﻿namespace CarLibrary
 {
     public enum EngineState
-    { engineAlive, engineDead}
+    { engineAlive, engineDead }
 
     public abstract class Car
     {

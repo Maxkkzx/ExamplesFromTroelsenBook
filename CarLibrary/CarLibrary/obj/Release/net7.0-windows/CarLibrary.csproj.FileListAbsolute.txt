@@ -1,0 +1,12 @@
+E:\Projects\C#\CarLibrary\CarLibrary\bin\Release\net7.0-windows\CarLibrary.deps.json
+E:\Projects\C#\CarLibrary\CarLibrary\bin\Release\net7.0-windows\CarLibrary.dll
+E:\Projects\C#\CarLibrary\CarLibrary\bin\Release\net7.0-windows\CarLibrary.pdb
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\CarLibrary.csproj.AssemblyReference.cache
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\CarLibrary.AssemblyInfoInputs.cache
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\CarLibrary.AssemblyInfo.cs
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\CarLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\CarLibrary.dll
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\refint\CarLibrary.dll
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\CarLibrary.pdb
+E:\Projects\C#\CarLibrary\CarLibrary\obj\Release\net7.0-windows\ref\CarLibrary.dll
