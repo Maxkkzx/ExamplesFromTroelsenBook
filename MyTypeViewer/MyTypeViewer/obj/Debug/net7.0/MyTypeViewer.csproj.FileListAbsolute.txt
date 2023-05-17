@@ -1,0 +1,15 @@
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\bin\Debug\net7.0\MyTypeViewer.exe
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\bin\Debug\net7.0\MyTypeViewer.deps.json
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\bin\Debug\net7.0\MyTypeViewer.runtimeconfig.json
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\bin\Debug\net7.0\MyTypeViewer.dll
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\bin\Debug\net7.0\MyTypeViewer.pdb
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.csproj.AssemblyReference.cache
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.AssemblyInfoInputs.cache
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.AssemblyInfo.cs
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.dll
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\refint\MyTypeViewer.dll
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.pdb
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\MyTypeViewer.genruntimeconfig.cache
+E:\Projects\C#\MyTypeViewer\MyTypeViewer\obj\Debug\net7.0\ref\MyTypeViewer.dll
