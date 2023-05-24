@@ -1,0 +1,15 @@
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\bin\Debug\net7.0\SharedAsmReflector.exe
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\bin\Debug\net7.0\SharedAsmReflector.deps.json
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\bin\Debug\net7.0\SharedAsmReflector.runtimeconfig.json
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\bin\Debug\net7.0\SharedAsmReflector.dll
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\bin\Debug\net7.0\SharedAsmReflector.pdb
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.csproj.AssemblyReference.cache
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.AssemblyInfoInputs.cache
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.AssemblyInfo.cs
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.dll
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\refint\SharedAsmReflector.dll
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.pdb
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\SharedAsmReflector.genruntimeconfig.cache
+E:\Projects\C#\SharedAsmReflector\SharedAsmReflector\obj\Debug\net7.0\ref\SharedAsmReflector.dll
