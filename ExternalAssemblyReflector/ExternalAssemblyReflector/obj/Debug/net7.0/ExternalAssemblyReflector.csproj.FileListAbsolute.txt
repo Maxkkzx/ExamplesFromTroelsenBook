@@ -1,0 +1,15 @@
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\net7.0\ExternalAssemblyReflector.exe
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\net7.0\ExternalAssemblyReflector.deps.json
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\net7.0\ExternalAssemblyReflector.runtimeconfig.json
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\net7.0\ExternalAssemblyReflector.dll
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\net7.0\ExternalAssemblyReflector.pdb
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.csproj.AssemblyReference.cache
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.AssemblyInfoInputs.cache
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.AssemblyInfo.cs
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.dll
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\refint\ExternalAssemblyReflector.dll
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.pdb
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ExternalAssemblyReflector.genruntimeconfig.cache
+E:\Projects\C#\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\net7.0\ref\ExternalAssemblyReflector.dll
