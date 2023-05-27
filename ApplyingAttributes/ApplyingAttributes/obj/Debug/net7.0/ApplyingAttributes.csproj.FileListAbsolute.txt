@@ -1,0 +1,15 @@
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\bin\Debug\net7.0\ApplyingAttributes.exe
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\bin\Debug\net7.0\ApplyingAttributes.deps.json
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\bin\Debug\net7.0\ApplyingAttributes.runtimeconfig.json
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\bin\Debug\net7.0\ApplyingAttributes.dll
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\bin\Debug\net7.0\ApplyingAttributes.pdb
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.csproj.AssemblyReference.cache
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.AssemblyInfoInputs.cache
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.AssemblyInfo.cs
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.dll
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\refint\ApplyingAttributes.dll
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.pdb
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ApplyingAttributes.genruntimeconfig.cache
+E:\Projects\C#\ApplyingAttributes\ApplyingAttributes\obj\Debug\net7.0\ref\ApplyingAttributes.dll
