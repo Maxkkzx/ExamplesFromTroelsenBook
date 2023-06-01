@@ -1,0 +1,5 @@
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Release\net7.0\AttributedCarLibrary.csproj.AssemblyReference.cache
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Release\net7.0\AttributedCarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Release\net7.0\AttributedCarLibrary.AssemblyInfoInputs.cache
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Release\net7.0\AttributedCarLibrary.AssemblyInfo.cs
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Release\net7.0\AttributedCarLibrary.csproj.CoreCompileInputs.cache

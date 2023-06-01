@@ -1,0 +1,12 @@
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\AttributedCarLibrary.csproj.AssemblyReference.cache
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\AttributedCarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\AttributedCarLibrary.AssemblyInfoInputs.cache
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\AttributedCarLibrary.AssemblyInfo.cs
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\AttributedCarLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\bin\Debug\net7.0\AttributedCarLibrary.deps.json
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\bin\Debug\net7.0\AttributedCarLibrary.dll
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\bin\Debug\net7.0\AttributedCarLibrary.pdb
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\AttributedCarLibrary.dll
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\refint\AttributedCarLibrary.dll
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\AttributedCarLibrary.pdb
+E:\Projects\C#\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\net7.0\ref\AttributedCarLibrary.dll
