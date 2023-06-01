@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VehicleDescriptionAttributeReader/1.0.0": {
+        "dependencies": {
+          "AttributedCarLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "VehicleDescriptionAttributeReader.dll": {}
+        }
+      },
+      "AttributedCarLibrary/1.0.0.0": {
+        "runtime": {
+          "AttributedCarLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleDescriptionAttributeReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttributedCarLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
