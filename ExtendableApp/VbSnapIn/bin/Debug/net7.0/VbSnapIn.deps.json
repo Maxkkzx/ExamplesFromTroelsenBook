@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VbSnapIn/1.0.0": {
+        "dependencies": {
+          "CommonSnappableTypes": "1.0.0"
+        },
+        "runtime": {
+          "VbSnapIn.dll": {}
+        }
+      },
+      "CommonSnappableTypes/1.0.0": {
+        "runtime": {
+          "CommonSnappableTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VbSnapIn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonSnappableTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

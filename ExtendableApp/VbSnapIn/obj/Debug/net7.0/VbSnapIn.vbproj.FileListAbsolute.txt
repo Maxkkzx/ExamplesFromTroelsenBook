@@ -1,0 +1,15 @@
+E:\Projects\C#\ExtendableApp\VbSnapIn\bin\Debug\net7.0\VbSnapIn.deps.json
+E:\Projects\C#\ExtendableApp\VbSnapIn\bin\Debug\net7.0\VbSnapIn.dll
+E:\Projects\C#\ExtendableApp\VbSnapIn\bin\Debug\net7.0\VbSnapIn.pdb
+E:\Projects\C#\ExtendableApp\VbSnapIn\bin\Debug\net7.0\CommonSnappableTypes.dll
+E:\Projects\C#\ExtendableApp\VbSnapIn\bin\Debug\net7.0\CommonSnappableTypes.pdb
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.vbproj.AssemblyReference.cache
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.AssemblyInfoInputs.cache
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.AssemblyInfo.vb
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.vbproj.CoreCompileInputs.cache
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.vbproj.CopyComplete
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.dll
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\refint\VbSnapIn.dll
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\VbSnapIn.pdb
+E:\Projects\C#\ExtendableApp\VbSnapIn\obj\Debug\net7.0\ref\VbSnapIn.dll
