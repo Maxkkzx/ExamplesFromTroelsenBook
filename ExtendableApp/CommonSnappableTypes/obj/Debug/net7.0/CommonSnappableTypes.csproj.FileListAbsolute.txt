@@ -1,0 +1,12 @@
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\bin\Debug\net7.0\CommonSnappableTypes.deps.json
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\bin\Debug\net7.0\CommonSnappableTypes.dll
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\bin\Debug\net7.0\CommonSnappableTypes.pdb
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\CommonSnappableTypes.csproj.AssemblyReference.cache
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\CommonSnappableTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\CommonSnappableTypes.AssemblyInfoInputs.cache
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\CommonSnappableTypes.AssemblyInfo.cs
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\CommonSnappableTypes.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\CommonSnappableTypes.dll
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\refint\CommonSnappableTypes.dll
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\CommonSnappableTypes.pdb
+E:\Projects\C#\ExtendableApp\CommonSnappableTypes\obj\Debug\net7.0\ref\CommonSnappableTypes.dll

@@ -1,0 +1,15 @@
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\bin\Debug\net7.0\CSharpSnapIn.deps.json
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\bin\Debug\net7.0\CSharpSnapIn.dll
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\bin\Debug\net7.0\CSharpSnapIn.pdb
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\bin\Debug\net7.0\CommonSnappableTypes.dll
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\bin\Debug\net7.0\CommonSnappableTypes.pdb
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.csproj.AssemblyReference.cache
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.AssemblyInfoInputs.cache
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.AssemblyInfo.cs
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.csproj.CopyComplete
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.dll
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\refint\CSharpSnapIn.dll
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\CSharpSnapIn.pdb
+E:\Projects\C#\ExtendableApp\CSharpSnapIn\obj\Debug\net7.0\ref\CSharpSnapIn.dll
