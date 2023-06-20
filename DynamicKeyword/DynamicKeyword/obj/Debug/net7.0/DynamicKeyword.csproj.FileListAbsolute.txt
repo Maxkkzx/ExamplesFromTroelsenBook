@@ -1,0 +1,15 @@
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\bin\Debug\net7.0\DynamicKeyword.exe
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\bin\Debug\net7.0\DynamicKeyword.deps.json
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\bin\Debug\net7.0\DynamicKeyword.runtimeconfig.json
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\bin\Debug\net7.0\DynamicKeyword.dll
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\bin\Debug\net7.0\DynamicKeyword.pdb
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.csproj.AssemblyReference.cache
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.AssemblyInfoInputs.cache
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.AssemblyInfo.cs
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.csproj.CoreCompileInputs.cache
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.dll
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\refint\DynamicKeyword.dll
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.pdb
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\DynamicKeyword.genruntimeconfig.cache
+E:\Projects\C#\DynamicKeyword\DynamicKeyword\obj\Debug\net7.0\ref\DynamicKeyword.dll
