@@ -1,0 +1,12 @@
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\bin\Debug\net7.0\MathLibrary.deps.json
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\bin\Debug\net7.0\MathLibrary.dll
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\bin\Debug\net7.0\MathLibrary.pdb
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\MathLibrary.csproj.AssemblyReference.cache
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\MathLibrary.AssemblyInfoInputs.cache
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\MathLibrary.AssemblyInfo.cs
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\MathLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\MathLibrary.dll
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\refint\MathLibrary.dll
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\MathLibrary.pdb
+E:\Projects\C#\LateBindingWithDynamic\SimpleMath\obj\Debug\net7.0\ref\MathLibrary.dll
