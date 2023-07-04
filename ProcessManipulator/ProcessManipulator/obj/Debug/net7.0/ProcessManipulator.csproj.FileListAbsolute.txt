@@ -1,0 +1,15 @@
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\bin\Debug\net7.0\ProcessManipulator.exe
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\bin\Debug\net7.0\ProcessManipulator.deps.json
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\bin\Debug\net7.0\ProcessManipulator.runtimeconfig.json
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\bin\Debug\net7.0\ProcessManipulator.dll
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\bin\Debug\net7.0\ProcessManipulator.pdb
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.csproj.AssemblyReference.cache
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.AssemblyInfoInputs.cache
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.AssemblyInfo.cs
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.dll
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\refint\ProcessManipulator.dll
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.pdb
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ProcessManipulator.genruntimeconfig.cache
+E:\Projects\C#\ProcessManipulator\ProcessManipulator\obj\Debug\net7.0\ref\ProcessManipulator.dll
