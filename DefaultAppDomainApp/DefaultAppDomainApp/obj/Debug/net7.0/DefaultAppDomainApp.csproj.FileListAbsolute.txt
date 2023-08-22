@@ -1,0 +1,15 @@
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\net7.0\DefaultAppDomainApp.exe
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\net7.0\DefaultAppDomainApp.deps.json
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\net7.0\DefaultAppDomainApp.runtimeconfig.json
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\net7.0\DefaultAppDomainApp.dll
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\net7.0\DefaultAppDomainApp.pdb
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.csproj.AssemblyReference.cache
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.AssemblyInfoInputs.cache
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.AssemblyInfo.cs
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.dll
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\refint\DefaultAppDomainApp.dll
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.pdb
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\DefaultAppDomainApp.genruntimeconfig.cache
+E:\Projects\C#\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\net7.0\ref\DefaultAppDomainApp.dll
