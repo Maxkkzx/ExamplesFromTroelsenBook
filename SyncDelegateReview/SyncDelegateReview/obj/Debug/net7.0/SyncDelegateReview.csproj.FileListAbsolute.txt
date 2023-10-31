@@ -1,0 +1,14 @@
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\bin\Debug\net7.0\SyncDelegateReview.exe
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\bin\Debug\net7.0\SyncDelegateReview.deps.json
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\bin\Debug\net7.0\SyncDelegateReview.runtimeconfig.json
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\bin\Debug\net7.0\SyncDelegateReview.dll
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\bin\Debug\net7.0\SyncDelegateReview.pdb
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\SyncDelegateReview.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\SyncDelegateReview.AssemblyInfoInputs.cache
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\SyncDelegateReview.AssemblyInfo.cs
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\SyncDelegateReview.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\SyncDelegateReview.dll
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\refint\SyncDelegateReview.dll
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\SyncDelegateReview.pdb
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\SyncDelegateReview.genruntimeconfig.cache
+E:\Projects\C#\SyncDelegateReview\SyncDelegateReview\obj\Debug\net7.0\ref\SyncDelegateReview.dll
