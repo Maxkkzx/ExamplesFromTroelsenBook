@@ -1,0 +1,14 @@
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\bin\Debug\net7.0\AsyncDelegate.exe
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\bin\Debug\net7.0\AsyncDelegate.deps.json
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\bin\Debug\net7.0\AsyncDelegate.runtimeconfig.json
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\bin\Debug\net7.0\AsyncDelegate.dll
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\bin\Debug\net7.0\AsyncDelegate.pdb
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\AsyncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\AsyncDelegate.AssemblyInfoInputs.cache
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\AsyncDelegate.AssemblyInfo.cs
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\AsyncDelegate.csproj.CoreCompileInputs.cache
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\AsyncDelegate.dll
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\refint\AsyncDelegate.dll
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\AsyncDelegate.pdb
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\AsyncDelegate.genruntimeconfig.cache
+E:\Projects\C#\AsyncDelegate\AsyncDelegate\obj\Debug\net7.0\ref\AsyncDelegate.dll
