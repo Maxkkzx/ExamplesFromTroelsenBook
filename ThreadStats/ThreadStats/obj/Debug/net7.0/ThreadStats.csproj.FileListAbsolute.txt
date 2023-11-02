@@ -1,0 +1,14 @@
+E:\Projects\C#\ThreadStats\ThreadStats\bin\Debug\net7.0\ThreadStats.exe
+E:\Projects\C#\ThreadStats\ThreadStats\bin\Debug\net7.0\ThreadStats.deps.json
+E:\Projects\C#\ThreadStats\ThreadStats\bin\Debug\net7.0\ThreadStats.runtimeconfig.json
+E:\Projects\C#\ThreadStats\ThreadStats\bin\Debug\net7.0\ThreadStats.dll
+E:\Projects\C#\ThreadStats\ThreadStats\bin\Debug\net7.0\ThreadStats.pdb
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ThreadStats.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ThreadStats.AssemblyInfoInputs.cache
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ThreadStats.AssemblyInfo.cs
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ThreadStats.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ThreadStats.dll
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\refint\ThreadStats.dll
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ThreadStats.pdb
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ThreadStats.genruntimeconfig.cache
+E:\Projects\C#\ThreadStats\ThreadStats\obj\Debug\net7.0\ref\ThreadStats.dll
