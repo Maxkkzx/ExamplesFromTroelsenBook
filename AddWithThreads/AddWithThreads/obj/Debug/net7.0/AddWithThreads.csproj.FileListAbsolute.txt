@@ -1,0 +1,14 @@
+E:\Projects\C#\AddWithThreads\AddWithThreads\bin\Debug\net7.0\AddWithThreads.exe
+E:\Projects\C#\AddWithThreads\AddWithThreads\bin\Debug\net7.0\AddWithThreads.deps.json
+E:\Projects\C#\AddWithThreads\AddWithThreads\bin\Debug\net7.0\AddWithThreads.runtimeconfig.json
+E:\Projects\C#\AddWithThreads\AddWithThreads\bin\Debug\net7.0\AddWithThreads.dll
+E:\Projects\C#\AddWithThreads\AddWithThreads\bin\Debug\net7.0\AddWithThreads.pdb
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\AddWithThreads.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\AddWithThreads.AssemblyInfoInputs.cache
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\AddWithThreads.AssemblyInfo.cs
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\AddWithThreads.csproj.CoreCompileInputs.cache
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\AddWithThreads.dll
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\refint\AddWithThreads.dll
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\AddWithThreads.pdb
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\AddWithThreads.genruntimeconfig.cache
+E:\Projects\C#\AddWithThreads\AddWithThreads\obj\Debug\net7.0\ref\AddWithThreads.dll
