@@ -1,0 +1,14 @@
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\net7.0\MultiThreadedPrinting.exe
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\net7.0\MultiThreadedPrinting.deps.json
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\net7.0\MultiThreadedPrinting.runtimeconfig.json
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\net7.0\MultiThreadedPrinting.dll
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\net7.0\MultiThreadedPrinting.pdb
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\MultiThreadedPrinting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\MultiThreadedPrinting.AssemblyInfoInputs.cache
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\MultiThreadedPrinting.AssemblyInfo.cs
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\MultiThreadedPrinting.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\MultiThreadedPrinting.dll
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\refint\MultiThreadedPrinting.dll
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\MultiThreadedPrinting.pdb
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\MultiThreadedPrinting.genruntimeconfig.cache
+E:\Projects\C#\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\net7.0\ref\MultiThreadedPrinting.dll
