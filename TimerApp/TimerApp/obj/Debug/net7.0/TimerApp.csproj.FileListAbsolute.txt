@@ -1,0 +1,14 @@
+E:\Projects\C#\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.exe
+E:\Projects\C#\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.deps.json
+E:\Projects\C#\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.runtimeconfig.json
+E:\Projects\C#\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.dll
+E:\Projects\C#\TimerApp\TimerApp\bin\Debug\net7.0\TimerApp.pdb
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.AssemblyInfoInputs.cache
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.AssemblyInfo.cs
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.dll
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\refint\TimerApp.dll
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.pdb
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\TimerApp.genruntimeconfig.cache
+E:\Projects\C#\TimerApp\TimerApp\obj\Debug\net7.0\ref\TimerApp.dll
