@@ -1,0 +1,14 @@
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ThreadPoolApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ThreadPoolApp.AssemblyInfoInputs.cache
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ThreadPoolApp.AssemblyInfo.cs
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ThreadPoolApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\bin\Debug\net7.0\ThreadPoolApp.exe
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\bin\Debug\net7.0\ThreadPoolApp.deps.json
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\bin\Debug\net7.0\ThreadPoolApp.runtimeconfig.json
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\bin\Debug\net7.0\ThreadPoolApp.dll
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\bin\Debug\net7.0\ThreadPoolApp.pdb
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ThreadPoolApp.dll
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\refint\ThreadPoolApp.dll
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ThreadPoolApp.pdb
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ThreadPoolApp.genruntimeconfig.cache
+E:\Projects\C#\ThreadPoolApp\ThreadPoolApp\obj\Debug\net7.0\ref\ThreadPoolApp.dll
