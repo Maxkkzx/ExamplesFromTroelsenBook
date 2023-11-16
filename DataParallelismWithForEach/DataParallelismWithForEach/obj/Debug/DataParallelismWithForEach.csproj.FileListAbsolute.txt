@@ -1,0 +1,15 @@
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.AssemblyReference.cache
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\MainWindow.g.cs
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\App.g.cs
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.cache
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach_MarkupCompile.lref
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe.config
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\MainWindow.baml
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.g.resources
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.Properties.Resources.resources
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.GenerateResource.cache
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.CoreCompileInputs.cache
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.exe
+E:\Projects\WPF\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.pdb
