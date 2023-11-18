@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyEBookReader/1.0.0": {
+        "runtime": {
+          "MyEBookReader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyEBookReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

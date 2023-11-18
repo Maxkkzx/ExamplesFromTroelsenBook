@@ -1,0 +1,14 @@
+E:\Projects\C#\MyEBookReader\MyEBookReader\bin\Debug\net7.0\MyEBookReader.exe
+E:\Projects\C#\MyEBookReader\MyEBookReader\bin\Debug\net7.0\MyEBookReader.deps.json
+E:\Projects\C#\MyEBookReader\MyEBookReader\bin\Debug\net7.0\MyEBookReader.runtimeconfig.json
+E:\Projects\C#\MyEBookReader\MyEBookReader\bin\Debug\net7.0\MyEBookReader.dll
+E:\Projects\C#\MyEBookReader\MyEBookReader\bin\Debug\net7.0\MyEBookReader.pdb
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\MyEBookReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\MyEBookReader.AssemblyInfoInputs.cache
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\MyEBookReader.AssemblyInfo.cs
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\MyEBookReader.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\MyEBookReader.dll
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\refint\MyEBookReader.dll
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\MyEBookReader.pdb
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\MyEBookReader.genruntimeconfig.cache
+E:\Projects\C#\MyEBookReader\MyEBookReader\obj\Debug\net7.0\ref\MyEBookReader.dll
