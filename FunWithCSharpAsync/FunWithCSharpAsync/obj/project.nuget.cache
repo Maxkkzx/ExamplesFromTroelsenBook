@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxZxVys+kbjX3gAbOsb1QlMA3jmNDAVFK5O0fZ2eC9G+DjgqHBS3wv7cB0/bzy/uQ7PjU4eY2Jkwd52xiRXV6Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\FunWithCSharpAsync\\FunWithCSharpAsync\\FunWithCSharpAsync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxkk\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

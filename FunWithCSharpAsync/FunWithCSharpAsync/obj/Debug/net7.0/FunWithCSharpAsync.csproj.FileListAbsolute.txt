@@ -1,0 +1,14 @@
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\net7.0\FunWithCSharpAsync.exe
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\net7.0\FunWithCSharpAsync.deps.json
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\net7.0\FunWithCSharpAsync.runtimeconfig.json
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\net7.0\FunWithCSharpAsync.dll
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\bin\Debug\net7.0\FunWithCSharpAsync.pdb
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\FunWithCSharpAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\FunWithCSharpAsync.AssemblyInfoInputs.cache
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\FunWithCSharpAsync.AssemblyInfo.cs
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\FunWithCSharpAsync.csproj.CoreCompileInputs.cache
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\FunWithCSharpAsync.dll
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\refint\FunWithCSharpAsync.dll
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\FunWithCSharpAsync.pdb
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\FunWithCSharpAsync.genruntimeconfig.cache
+E:\Projects\C#\FunWithCSharpAsync\FunWithCSharpAsync\obj\Debug\net7.0\ref\FunWithCSharpAsync.dll
