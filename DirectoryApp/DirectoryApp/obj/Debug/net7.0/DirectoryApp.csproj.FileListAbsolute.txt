@@ -1,0 +1,14 @@
+E:\Projects\C#\DirectoryApp\DirectoryApp\bin\Debug\net7.0\DirectoryApp.exe
+E:\Projects\C#\DirectoryApp\DirectoryApp\bin\Debug\net7.0\DirectoryApp.deps.json
+E:\Projects\C#\DirectoryApp\DirectoryApp\bin\Debug\net7.0\DirectoryApp.runtimeconfig.json
+E:\Projects\C#\DirectoryApp\DirectoryApp\bin\Debug\net7.0\DirectoryApp.dll
+E:\Projects\C#\DirectoryApp\DirectoryApp\bin\Debug\net7.0\DirectoryApp.pdb
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\DirectoryApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\DirectoryApp.AssemblyInfoInputs.cache
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\DirectoryApp.AssemblyInfo.cs
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\DirectoryApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\DirectoryApp.dll
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\refint\DirectoryApp.dll
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\DirectoryApp.pdb
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\DirectoryApp.genruntimeconfig.cache
+E:\Projects\C#\DirectoryApp\DirectoryApp\obj\Debug\net7.0\ref\DirectoryApp.dll
