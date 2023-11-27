@@ -67,13 +67,15 @@
 
             foreach (string s in drives)
                 Console.WriteLine($"--> {s}");
+
             Console.WriteLine("Press Enter to delete directories");
+
             Console.ReadLine();
             try
             {
-                Directory.Delete(@"C:\MyFolder");
+                Directory.Delete(@"MyFolder");
 
-                Directory.Delete(@"C:\MyFolder2", true);
+                Directory.Delete(@"MyFolder2", true);
             }
             catch(IOException ex)
             {
