@@ -1,0 +1,14 @@
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\bin\Debug\net7.0\DriveInfoApp.exe
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\bin\Debug\net7.0\DriveInfoApp.deps.json
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\bin\Debug\net7.0\DriveInfoApp.runtimeconfig.json
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\bin\Debug\net7.0\DriveInfoApp.dll
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\bin\Debug\net7.0\DriveInfoApp.pdb
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\DriveInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\DriveInfoApp.AssemblyInfoInputs.cache
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\DriveInfoApp.AssemblyInfo.cs
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\DriveInfoApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\DriveInfoApp.dll
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\refint\DriveInfoApp.dll
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\DriveInfoApp.pdb
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\DriveInfoApp.genruntimeconfig.cache
+E:\Projects\C#\DriveInfoApp\DriveInfoApp\obj\Debug\net7.0\ref\DriveInfoApp.dll
