@@ -1,0 +1,14 @@
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\bin\Debug\net7.0\SimpleFilelO.exe
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\bin\Debug\net7.0\SimpleFilelO.deps.json
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\bin\Debug\net7.0\SimpleFilelO.runtimeconfig.json
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\bin\Debug\net7.0\SimpleFilelO.dll
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\bin\Debug\net7.0\SimpleFilelO.pdb
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\SimpleFilelO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\SimpleFilelO.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\SimpleFilelO.AssemblyInfo.cs
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\SimpleFilelO.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\SimpleFilelO.dll
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\refint\SimpleFilelO.dll
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\SimpleFilelO.pdb
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\SimpleFilelO.genruntimeconfig.cache
+E:\Projects\C#\SimpleFilelO\SimpleFilelO\obj\Debug\net7.0\ref\SimpleFilelO.dll
