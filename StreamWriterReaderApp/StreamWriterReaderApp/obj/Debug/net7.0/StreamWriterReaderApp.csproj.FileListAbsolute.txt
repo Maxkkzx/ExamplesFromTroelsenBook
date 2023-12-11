@@ -1,0 +1,14 @@
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\net7.0\StreamWriterReaderApp.exe
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\net7.0\StreamWriterReaderApp.deps.json
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\net7.0\StreamWriterReaderApp.runtimeconfig.json
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\net7.0\StreamWriterReaderApp.dll
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\net7.0\StreamWriterReaderApp.pdb
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\StreamWriterReaderApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\StreamWriterReaderApp.AssemblyInfoInputs.cache
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\StreamWriterReaderApp.AssemblyInfo.cs
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\StreamWriterReaderApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\StreamWriterReaderApp.dll
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\refint\StreamWriterReaderApp.dll
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\StreamWriterReaderApp.pdb
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\StreamWriterReaderApp.genruntimeconfig.cache
+E:\Projects\C#\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\net7.0\ref\StreamWriterReaderApp.dll
