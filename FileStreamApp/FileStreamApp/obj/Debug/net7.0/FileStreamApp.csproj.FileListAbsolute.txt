@@ -1,0 +1,14 @@
+E:\Projects\C#\FileStreamApp\FileStreamApp\bin\Debug\net7.0\FileStreamApp.exe
+E:\Projects\C#\FileStreamApp\FileStreamApp\bin\Debug\net7.0\FileStreamApp.deps.json
+E:\Projects\C#\FileStreamApp\FileStreamApp\bin\Debug\net7.0\FileStreamApp.runtimeconfig.json
+E:\Projects\C#\FileStreamApp\FileStreamApp\bin\Debug\net7.0\FileStreamApp.dll
+E:\Projects\C#\FileStreamApp\FileStreamApp\bin\Debug\net7.0\FileStreamApp.pdb
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\FileStreamApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\FileStreamApp.AssemblyInfoInputs.cache
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\FileStreamApp.AssemblyInfo.cs
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\FileStreamApp.csproj.CoreCompileInputs.cache
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\FileStreamApp.dll
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\refint\FileStreamApp.dll
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\FileStreamApp.pdb
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\FileStreamApp.genruntimeconfig.cache
+E:\Projects\C#\FileStreamApp\FileStreamApp\obj\Debug\net7.0\ref\FileStreamApp.dll
