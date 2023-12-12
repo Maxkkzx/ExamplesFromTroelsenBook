@@ -1,0 +1,14 @@
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\bin\Debug\net7.0\BinaryWriterReader.exe
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\bin\Debug\net7.0\BinaryWriterReader.deps.json
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\bin\Debug\net7.0\BinaryWriterReader.runtimeconfig.json
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\bin\Debug\net7.0\BinaryWriterReader.dll
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\bin\Debug\net7.0\BinaryWriterReader.pdb
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\BinaryWriterReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\BinaryWriterReader.AssemblyInfoInputs.cache
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\BinaryWriterReader.AssemblyInfo.cs
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\BinaryWriterReader.csproj.CoreCompileInputs.cache
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\BinaryWriterReader.dll
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\refint\BinaryWriterReader.dll
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\BinaryWriterReader.pdb
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\BinaryWriterReader.genruntimeconfig.cache
+E:\Projects\C#\BinaryWriterReader\BinaryWriterReader\obj\Debug\net7.0\ref\BinaryWriterReader.dll
