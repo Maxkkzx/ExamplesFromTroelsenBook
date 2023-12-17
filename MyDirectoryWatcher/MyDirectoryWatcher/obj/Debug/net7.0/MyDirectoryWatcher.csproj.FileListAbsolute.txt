@@ -1,0 +1,14 @@
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\net7.0\MyDirectoryWatcher.exe
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\net7.0\MyDirectoryWatcher.deps.json
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\net7.0\MyDirectoryWatcher.runtimeconfig.json
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\net7.0\MyDirectoryWatcher.dll
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\bin\Debug\net7.0\MyDirectoryWatcher.pdb
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\MyDirectoryWatcher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\MyDirectoryWatcher.AssemblyInfoInputs.cache
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\MyDirectoryWatcher.AssemblyInfo.cs
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\MyDirectoryWatcher.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\MyDirectoryWatcher.dll
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\refint\MyDirectoryWatcher.dll
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\MyDirectoryWatcher.pdb
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\MyDirectoryWatcher.genruntimeconfig.cache
+E:\Projects\C#\MyDirectoryWatcher\MyDirectoryWatcher\obj\Debug\net7.0\ref\MyDirectoryWatcher.dll
