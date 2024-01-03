@@ -1,0 +1,14 @@
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\bin\Debug\net7.0\SimpleSerialize.exe
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\bin\Debug\net7.0\SimpleSerialize.deps.json
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\bin\Debug\net7.0\SimpleSerialize.runtimeconfig.json
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\bin\Debug\net7.0\SimpleSerialize.dll
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\bin\Debug\net7.0\SimpleSerialize.pdb
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\SimpleSerialize.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\SimpleSerialize.AssemblyInfoInputs.cache
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\SimpleSerialize.AssemblyInfo.cs
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\SimpleSerialize.csproj.CoreCompileInputs.cache
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\SimpleSerialize.dll
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\refint\SimpleSerialize.dll
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\SimpleSerialize.pdb
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\SimpleSerialize.genruntimeconfig.cache
+E:\Projects\C#\SimpleSerialize\SimpleSerialize\obj\Debug\net7.0\ref\SimpleSerialize.dll
