@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoLotDAL", "AutoLotDAL\AutoLotDAL.csproj", "{95DAB0B2-A558-4400-B85B-8048D841A262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotClient", "AutoLotClient\AutoLotClient.csproj", "{D4921A68-987A-4003-B46F-297CD25E0B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DAB0B2-A558-4400-B85B-8048D841A262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DAB0B2-A558-4400-B85B-8048D841A262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DAB0B2-A558-4400-B85B-8048D841A262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DAB0B2-A558-4400-B85B-8048D841A262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4921A68-987A-4003-B46F-297CD25E0B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4921A68-987A-4003-B46F-297CD25E0B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4921A68-987A-4003-B46F-297CD25E0B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4921A68-987A-4003-B46F-297CD25E0B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1369E9B-CA13-4219-9F34-CA1721503B41}
+	EndGlobalSection
+EndGlobal
